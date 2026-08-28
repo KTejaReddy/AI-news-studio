@@ -1,0 +1,24 @@
+[
+    {
+        "job_id": "7c3b46f7-1ac8-400f-8d86-25a83b9a73b1",
+        "output_path": "T:\\AI news studio\\projects\\2830e9eb-5cbe-4d4f-86eb-33ed7e812ab6\\export\\final.mp4",
+        "preset": "Custom Resolution",
+        "resolution": "1920x1080",
+        "codec": "H264",
+        "fps": 30,
+        "container": "MP4",
+        "completed_at": "2026-06-26T11:26:17.930394",
+        "file_size_bytes": 298881
+    },
+    {
+        "job_id": "c57d2fbf-6f40-417c-af2f-c4e7db712211",
+        "output_path": "T:\\AI news studio\\projects\\51eca8cf-1b8e-4347-9aef-c8ca8e5e88b8\\export\\51eca8cf-1b8e-4347-9aef-c8ca8e5e88b8_final.mp4",
+        "preset": "Custom Resolution",
+        "resolution": "1920x1080",
+        "codec": "H264",
+        "fps": 30,
+        "container": "MP4",
+        "completed_at": "2026-06-26T11:00:09.692484",
+        "file_size_bytes": 298881
+    }
+]

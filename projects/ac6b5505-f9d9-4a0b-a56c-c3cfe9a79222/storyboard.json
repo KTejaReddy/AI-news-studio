@@ -1,0 +1,34 @@
+[
+  {
+    "scene_number": 1,
+    "scene_type": "Hook",
+    "duration": 3.0,
+    "narration": "Hello and welcome to AI News Studio.",
+    "presenter_visibility": "Presenter",
+    "broll_keywords": "hello, welcome, ai, news, studio",
+    "camera_shot": "Close-up",
+    "camera_movement": "Zoom In",
+    "gesture_intensity": 1.3,
+    "transition_type": "Cut",
+    "caption_style": "Standard Subtitles",
+    "background_music_mood": "Upbeat",
+    "voice_emphasis": "High",
+    "emotion": "Excited"
+  },
+  {
+    "scene_number": 2,
+    "scene_type": "Ending",
+    "duration": 3.0,
+    "narration": "Today we showcase the production pipeline.",
+    "presenter_visibility": "Presenter",
+    "broll_keywords": "today, showcase, production, pipeline",
+    "camera_shot": "Close-up",
+    "camera_movement": "Zoom Out",
+    "gesture_intensity": 1.2,
+    "transition_type": "Cut",
+    "caption_style": "Standard Subtitles",
+    "background_music_mood": "Inspirational",
+    "voice_emphasis": "High",
+    "emotion": "Happy"
+  }
+]

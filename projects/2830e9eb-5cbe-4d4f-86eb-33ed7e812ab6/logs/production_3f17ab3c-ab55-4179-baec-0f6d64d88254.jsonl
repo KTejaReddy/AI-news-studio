@@ -1,0 +1,14 @@
+{"timestamp": "2026-06-26T10:59:23.061451", "level": "INFO", "stage": "parse_script", "message": "Parsing script and extracting structure...", "job_id": "3f17ab3c-ab55-4179-baec-0f6d64d88254"}
+{"timestamp": "2026-06-26T10:59:23.062444", "level": "INFO", "stage": "parse_script", "message": "Script parsed: 13 words.", "job_id": "3f17ab3c-ab55-4179-baec-0f6d64d88254"}
+{"timestamp": "2026-06-26T10:59:23.062444", "level": "INFO", "stage": "director_plan", "message": "Loading cached Director storyboard...", "job_id": "3f17ab3c-ab55-4179-baec-0f6d64d88254"}
+{"timestamp": "2026-06-26T10:59:23.063448", "level": "INFO", "stage": "assign_presenter", "message": "Assigning presenter 'anchor_01' to 2 scenes.", "job_id": "3f17ab3c-ab55-4179-baec-0f6d64d88254"}
+{"timestamp": "2026-06-26T10:59:23.063448", "level": "INFO", "stage": "generate_voice", "message": "Loading cached voice tracks...", "job_id": "3f17ab3c-ab55-4179-baec-0f6d64d88254"}
+{"timestamp": "2026-06-26T10:59:23.063448", "level": "INFO", "stage": "generate_motion", "message": "Loading cached motion videos...", "job_id": "3f17ab3c-ab55-4179-baec-0f6d64d88254"}
+{"timestamp": "2026-06-26T10:59:23.063448", "level": "INFO", "stage": "generate_lipsync", "message": "Loading cached lipsync videos...", "job_id": "3f17ab3c-ab55-4179-baec-0f6d64d88254"}
+{"timestamp": "2026-06-26T10:59:23.064447", "level": "INFO", "stage": "generate_broll", "message": "Loading cached B-Roll assets...", "job_id": "3f17ab3c-ab55-4179-baec-0f6d64d88254"}
+{"timestamp": "2026-06-26T10:59:23.064447", "level": "INFO", "stage": "assemble_timeline", "message": "Assembling timeline from scene plans and generated assets...", "job_id": "3f17ab3c-ab55-4179-baec-0f6d64d88254"}
+{"timestamp": "2026-06-26T10:59:23.066442", "level": "INFO", "stage": "assemble_timeline", "message": "Timeline assembled: 6.00s total duration.", "job_id": "3f17ab3c-ab55-4179-baec-0f6d64d88254"}
+{"timestamp": "2026-06-26T10:59:23.067442", "level": "INFO", "stage": "render_preview", "message": "Rendering preview video (low-res)...", "job_id": "3f17ab3c-ab55-4179-baec-0f6d64d88254"}
+{"timestamp": "2026-06-26T10:59:23.568198", "level": "WARNING", "stage": "render_preview", "message": "Preview render failed: 'TimelineClip' object has no attribute 'aspect_ratio'", "job_id": "3f17ab3c-ab55-4179-baec-0f6d64d88254"}
+{"timestamp": "2026-06-26T10:59:23.569218", "level": "INFO", "stage": "export_final", "message": "Exporting final video to: 2830e9eb-5cbe-4d4f-86eb-33ed7e812ab6_final.mp4", "job_id": "3f17ab3c-ab55-4179-baec-0f6d64d88254"}
+{"timestamp": "2026-06-26T10:59:31.075128", "level": "ERROR", "stage": "export_final", "message": "Export failed: Timeline render failed: 'TimelineClip' object has no attribute 'aspect_ratio'", "job_id": "3f17ab3c-ab55-4179-baec-0f6d64d88254"}

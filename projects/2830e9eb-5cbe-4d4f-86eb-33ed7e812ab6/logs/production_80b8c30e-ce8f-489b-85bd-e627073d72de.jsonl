@@ -1,0 +1,14 @@
+{"timestamp": "2026-06-26T11:26:07.443311", "level": "INFO", "stage": "parse_script", "message": "Parsing script and extracting structure...", "job_id": "80b8c30e-ce8f-489b-85bd-e627073d72de"}
+{"timestamp": "2026-06-26T11:26:07.443311", "level": "INFO", "stage": "parse_script", "message": "Script parsed: 13 words.", "job_id": "80b8c30e-ce8f-489b-85bd-e627073d72de"}
+{"timestamp": "2026-06-26T11:26:07.444817", "level": "INFO", "stage": "director_plan", "message": "Loading cached Director storyboard...", "job_id": "80b8c30e-ce8f-489b-85bd-e627073d72de"}
+{"timestamp": "2026-06-26T11:26:07.444817", "level": "INFO", "stage": "assign_presenter", "message": "Assigning presenter 'anchor_01' to 2 scenes.", "job_id": "80b8c30e-ce8f-489b-85bd-e627073d72de"}
+{"timestamp": "2026-06-26T11:26:07.444817", "level": "INFO", "stage": "generate_voice", "message": "Loading cached voice tracks...", "job_id": "80b8c30e-ce8f-489b-85bd-e627073d72de"}
+{"timestamp": "2026-06-26T11:26:07.445825", "level": "INFO", "stage": "generate_motion", "message": "Loading cached motion videos...", "job_id": "80b8c30e-ce8f-489b-85bd-e627073d72de"}
+{"timestamp": "2026-06-26T11:26:07.445825", "level": "INFO", "stage": "generate_lipsync", "message": "Loading cached lipsync videos...", "job_id": "80b8c30e-ce8f-489b-85bd-e627073d72de"}
+{"timestamp": "2026-06-26T11:26:07.445825", "level": "INFO", "stage": "generate_broll", "message": "Loading cached B-Roll assets...", "job_id": "80b8c30e-ce8f-489b-85bd-e627073d72de"}
+{"timestamp": "2026-06-26T11:26:07.445825", "level": "INFO", "stage": "assemble_timeline", "message": "Assembling timeline from scene plans and generated assets...", "job_id": "80b8c30e-ce8f-489b-85bd-e627073d72de"}
+{"timestamp": "2026-06-26T11:26:07.448824", "level": "INFO", "stage": "assemble_timeline", "message": "Timeline assembled: 6.00s total duration.", "job_id": "80b8c30e-ce8f-489b-85bd-e627073d72de"}
+{"timestamp": "2026-06-26T11:26:07.448824", "level": "INFO", "stage": "render_preview", "message": "Rendering preview video (low-res)...", "job_id": "80b8c30e-ce8f-489b-85bd-e627073d72de"}
+{"timestamp": "2026-06-26T11:26:08.951358", "level": "INFO", "stage": "render_preview", "message": "Preview render complete.", "job_id": "80b8c30e-ce8f-489b-85bd-e627073d72de"}
+{"timestamp": "2026-06-26T11:26:08.952897", "level": "INFO", "stage": "export_final", "message": "Exporting final video to: final.mp4", "job_id": "80b8c30e-ce8f-489b-85bd-e627073d72de"}
+{"timestamp": "2026-06-26T11:26:17.961408", "level": "INFO", "stage": "export_final", "message": "Export complete: T:\\AI news studio\\projects\\2830e9eb-5cbe-4d4f-86eb-33ed7e812ab6\\export\\final.mp4", "job_id": "80b8c30e-ce8f-489b-85bd-e627073d72de"}

@@ -1,0 +1,9 @@
+﻿python : C:\Users\tejar\AppData\Local\Programs\Python\Python312\Lib\site-packages\pydub\utils.py:170: RuntimeWarning: 
+Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work
+At line:1 char:1
++ python -c "
++ ~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (C:\Users\tejar\...ut may not work:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  warn("Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work", RuntimeWarning)

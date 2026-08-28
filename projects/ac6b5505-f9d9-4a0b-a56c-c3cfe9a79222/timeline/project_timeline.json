@@ -1,0 +1,67 @@
+{
+    "version": "1.0",
+    "total_duration": 0.0,
+    "scenes": [],
+    "tracks": [
+        {
+            "track_id": "1c288082-1ee5-49ef-9874-d394c56e51ec",
+            "name": "Presenter Track",
+            "track_type": "Presenter",
+            "clips": [],
+            "locked": false,
+            "muted": false,
+            "soloed": false,
+            "visible": true
+        },
+        {
+            "track_id": "97d9c0f5-7cd1-4a1c-a15b-e7b82567f364",
+            "name": "Voice Track",
+            "track_type": "Voice",
+            "clips": [],
+            "locked": false,
+            "muted": false,
+            "soloed": false,
+            "visible": true
+        },
+        {
+            "track_id": "745b6e56-3ee8-4577-a9c7-3bf216702e54",
+            "name": "B-Roll Track",
+            "track_type": "B-roll",
+            "clips": [],
+            "locked": false,
+            "muted": false,
+            "soloed": false,
+            "visible": true
+        },
+        {
+            "track_id": "8aa9f081-0f89-4abb-ad89-9abda8f3de32",
+            "name": "Music Track",
+            "track_type": "Music",
+            "clips": [],
+            "locked": false,
+            "muted": false,
+            "soloed": false,
+            "visible": true
+        },
+        {
+            "track_id": "45447ec4-9418-4b8b-b22e-4801ef233d98",
+            "name": "Text Track",
+            "track_type": "Text",
+            "clips": [],
+            "locked": false,
+            "muted": false,
+            "soloed": false,
+            "visible": true
+        },
+        {
+            "track_id": "da69c8c5-6e35-499a-8157-1e07fac5311d",
+            "name": "Camera Track",
+            "track_type": "Camera",
+            "clips": [],
+            "locked": false,
+            "muted": false,
+            "soloed": false,
+            "visible": true
+        }
+    ]
+}

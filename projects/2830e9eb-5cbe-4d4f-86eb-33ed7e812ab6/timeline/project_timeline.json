@@ -1,0 +1,178 @@
+{
+    "version": "1.0",
+    "total_duration": 6.0,
+    "scenes": [
+        {
+            "scene_number": 1,
+            "start_time": 0.0,
+            "duration": 3.0,
+            "transition_type": "Cut",
+            "transition_duration": 0.5,
+            "narration": "Hello and welcome to AI News Studio.",
+            "broll_keywords": "hello, welcome, ai, news, studio"
+        },
+        {
+            "scene_number": 2,
+            "start_time": 3.0,
+            "duration": 3.0,
+            "transition_type": "Cut",
+            "transition_duration": 0.5,
+            "narration": "Today we showcase the production pipeline.",
+            "broll_keywords": "today, showcase, production, pipeline"
+        }
+    ],
+    "tracks": [
+        {
+            "track_id": "5de6b23d-4957-4941-bd70-ba61eed06cde",
+            "name": "Presenter Track",
+            "track_type": "Presenter",
+            "clips": [
+                {
+                    "clip_id": "aa721791-a260-40a5-8b4d-a48b3cab2974",
+                    "name": "Presenter S1",
+                    "asset_path": "projects\\2830e9eb-5cbe-4d4f-86eb-33ed7e812ab6\\lipsync\\scene_1.mp4",
+                    "start_time": 0.0,
+                    "duration": 3.0,
+                    "source_start": 0.0,
+                    "source_duration": 3.0,
+                    "clip_type": "Presenter",
+                    "muted": false
+                },
+                {
+                    "clip_id": "bdfc94c5-83bc-490c-910d-bcbf6262a23c",
+                    "name": "Presenter S2",
+                    "asset_path": "projects\\2830e9eb-5cbe-4d4f-86eb-33ed7e812ab6\\lipsync\\scene_2.mp4",
+                    "start_time": 3.0,
+                    "duration": 3.0,
+                    "source_start": 0.0,
+                    "source_duration": 3.0,
+                    "clip_type": "Presenter",
+                    "muted": false
+                }
+            ],
+            "locked": false,
+            "muted": false,
+            "soloed": false,
+            "visible": true
+        },
+        {
+            "track_id": "0fc83b23-1552-4e99-a89c-d74e148fa013",
+            "name": "Voice Track",
+            "track_type": "Voice",
+            "clips": [
+                {
+                    "clip_id": "517d5dc0-4f74-4503-99d9-4d147836aa17",
+                    "name": "Voice S1",
+                    "asset_path": "projects\\2830e9eb-5cbe-4d4f-86eb-33ed7e812ab6\\voice\\scene_1.wav",
+                    "start_time": 0.0,
+                    "duration": 3.0,
+                    "source_start": 0.0,
+                    "source_duration": 3.0,
+                    "clip_type": "Voice",
+                    "muted": false
+                },
+                {
+                    "clip_id": "388989ea-2142-4efc-a30f-f3063f39b509",
+                    "name": "Voice S2",
+                    "asset_path": "projects\\2830e9eb-5cbe-4d4f-86eb-33ed7e812ab6\\voice\\scene_2.wav",
+                    "start_time": 3.0,
+                    "duration": 3.0,
+                    "source_start": 0.0,
+                    "source_duration": 3.0,
+                    "clip_type": "Voice",
+                    "muted": false
+                }
+            ],
+            "locked": false,
+            "muted": false,
+            "soloed": false,
+            "visible": true
+        },
+        {
+            "track_id": "ff3dbaea-944a-40ee-b7f1-2a851928a92a",
+            "name": "B-Roll Track",
+            "track_type": "B-roll",
+            "clips": [],
+            "locked": false,
+            "muted": false,
+            "soloed": false,
+            "visible": true
+        },
+        {
+            "track_id": "97db1070-1ae7-4b14-a7ef-142960ca7ba5",
+            "name": "Music Track",
+            "track_type": "Music",
+            "clips": [],
+            "locked": false,
+            "muted": false,
+            "soloed": false,
+            "visible": true
+        },
+        {
+            "track_id": "47afd2bc-4373-4356-97ab-dbbcd29f0103",
+            "name": "Text Track",
+            "track_type": "Text",
+            "clips": [
+                {
+                    "clip_id": "9f158e49-bbf6-43b6-bf76-b9feae2be3aa",
+                    "name": "Hello and welcome to AI News Studio.",
+                    "asset_path": "",
+                    "start_time": 0.0,
+                    "duration": 3.0,
+                    "source_start": 0.0,
+                    "source_duration": 3.0,
+                    "clip_type": "Text",
+                    "muted": false
+                },
+                {
+                    "clip_id": "facf93e2-17d4-45e9-9187-908f2b00bf2f",
+                    "name": "Today we showcase the production pipeline.",
+                    "asset_path": "",
+                    "start_time": 3.0,
+                    "duration": 3.0,
+                    "source_start": 0.0,
+                    "source_duration": 3.0,
+                    "clip_type": "Text",
+                    "muted": false
+                }
+            ],
+            "locked": false,
+            "muted": false,
+            "soloed": false,
+            "visible": true
+        },
+        {
+            "track_id": "1b3eb244-767b-4003-aae2-65eb6ffe28d6",
+            "name": "Camera Track",
+            "track_type": "Camera",
+            "clips": [
+                {
+                    "clip_id": "c0d872bc-9e93-4eb0-b4fa-084718bc155d",
+                    "name": "Cam: Close-up (Zoom In)",
+                    "asset_path": "",
+                    "start_time": 0.0,
+                    "duration": 3.0,
+                    "source_start": 0.0,
+                    "source_duration": 3.0,
+                    "clip_type": "Camera",
+                    "muted": false
+                },
+                {
+                    "clip_id": "b6c41501-af6e-49dd-b331-d5296fc70f32",
+                    "name": "Cam: Close-up (Zoom Out)",
+                    "asset_path": "",
+                    "start_time": 3.0,
+                    "duration": 3.0,
+                    "source_start": 0.0,
+                    "source_duration": 3.0,
+                    "clip_type": "Camera",
+                    "muted": false
+                }
+            ],
+            "locked": false,
+            "muted": false,
+            "soloed": false,
+            "visible": true
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2830e9eb-5cbe-4d4f-86eb-33ed7e812ab6",
+  "name": "Verify_E2E_1782451762",
+  "created_at": "2026-06-26T10:59:22.105385",
+  "modified_at": "2026-06-26T10:59:22.105385",
+  "script": "Hello and welcome to AI News Studio. Today we showcase the production pipeline.",
+  "presenter_id": "anchor_01",
+  "voice_id": "voice_profile_01",
+  "aspect_ratio": "16:9",
+  "status": "Draft",
+  "output_video_path": null
+}

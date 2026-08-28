@@ -1,0 +1,11 @@
+{
+  "theme": "dark",
+  "language": "en",
+  "device_mode": "GPU",
+  "output_folder": "output",
+  "model_folder": "models",
+  "temp_folder": "temp",
+  "cache_folder": "cache",
+  "quality": "High",
+  "aspect_ratio": "16:9"
+}

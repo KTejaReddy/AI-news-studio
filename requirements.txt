@@ -1,0 +1,15 @@
+customtkinter>=5.2.0
+pillow>=10.0.0
+pyyaml>=6.0
+pytest>=7.0
+torch>=2.0.0
+torchvision>=0.15.0
+onnxruntime>=1.15.0
+insightface>=0.7.3
+scipy>=1.10.0
+numpy>=1.23.0
+imageio>=2.30.0
+imageio-ffmpeg>=0.4.8
+tyro>=0.5.0
+f5-tts>=0.1.0
+soundfile>=0.12.1
